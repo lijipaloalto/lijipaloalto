@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lijipaloalto
 - 👀 I’m interested in machine learning and big data
-- 🌱 I’m currently learning various ways of normalization
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning llm and applications
+- 💞️ I’m looking to collaborate on anything on machine learning and llm application
 - 📫 How to reach me ...
 
 <!---
